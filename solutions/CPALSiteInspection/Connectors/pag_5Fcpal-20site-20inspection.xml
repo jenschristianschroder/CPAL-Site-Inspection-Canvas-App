@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <connectorid>6ddc6a95-604d-44df-823b-d2fa0b89f3bf</connectorid>
+  <description>City Power &amp; Light - Site Inpsection Connector</description>
+  <displayname>CPAL Site Inspection</displayname>
+  <iconbrandcolor>#ffffff</iconbrandcolor>
+  <name>pag_5Fcpal-20site-20inspection</name>
+  <connectortype>1</connectortype>
+  <openapidefinition>/Connector/pag_5Fcpal-20site-20inspection_openapidefinition.json</openapidefinition>
+  <connectionparameters>/Connector/pag_5Fcpal-20site-20inspection_connectionparameters.json</connectionparameters>
+  <policytemplateinstances>/Connector/pag_5Fcpal-20site-20inspection_policytemplateinstances.json</policytemplateinstances>
+  <iconblob>/Connector/pag_5Fcpal-20site-20inspection_iconblob.Png</iconblob>
+</Connector>

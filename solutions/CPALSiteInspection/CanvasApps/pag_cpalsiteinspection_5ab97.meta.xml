@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>pag_cpalsiteinspection_5ab97</Name>
+  <AppVersion>2020-10-05T13:54:26Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.20091.41.0</CreatedByClientVersion>
+  <MinClientVersion>3.20091.41.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","sienaVersion":"c5843ffc-97a7-441a-b20e-4af083286682","deviceCapabilities":"webcam,microphone,location","supportsPortrait":"true","supportsLandscape":"false","primaryFormFactor":"Phone","publisherVersion":"3.20091.41","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(1, 60, 96, 1)</BackgroundColor>
+  <DisplayName>CPAL Site Inspection</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences xsi:nil="true"></AuthorizationReferences>
+  <ConnectionReferences>{"a5223de9-5864-494d-bec6-aaceea98b448":{"id":"/providers/microsoft.powerapps/apis/shared_microsoftspatialservices","displayName":"Spatial Services","iconUri":"https://connectoricons-prod.azureedge.net/microsoftspatialservices/icon_1.0.1355.2020.png","dataSources":["SpatialServices"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Premium","isCustomApiSolutionAware":false},"56936cb1-d7c8-4e52-ad9d-d782170bbb45":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://resourcestackdeploy.blob.core.windows.net/scripts/13276078.png","dataSources":["PowerApp-&gt;Createblob,RespondtoaPowerApporflow"],"dependencies":["11454469-d4ff-468c-9c05-01481770127c"],"dependents":[],"parameterHints":{"workflowName":{"value":"155dff1e-16e1-4f14-aef6-3e1c2efd0415"},"11454469-d4ff-468c-9c05-01481770127c":{"value":"shared_azureblob_2"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","isCustomApiSolutionAware":false},"11454469-d4ff-468c-9c05-01481770127c":{"id":"/providers/microsoft.powerapps/apis/shared_azureblob","displayName":"Azure Blob Storage","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1394/1.0.1394.2142/azureblob/icon.png","dataSources":[],"dependencies":[],"dependents":["56936cb1-d7c8-4e52-ad9d-d782170bbb45"],"parameterHints":{},"isOnPremiseConnection":false,"sharedConnectionId":"c922ac0b-7c37-438b-81df-91ab6456ce26","bypassConsent":false,"dataSets":{},"apiTier":"Premium","isCustomApiSolutionAware":false},"a2e90d40-91e6-4f90-b60e-9f842375c555":{"id":"/providers/microsoft.powerapps/apis/shared_pag-5fcpal-20site-20inspection-5fe06db0577dadf7e2","displayName":"CPAL Site Inspection","iconUri":"https://prodapiicons.cdn.powerappscdn.net/20201005t000000z37b54f57ec5142f48707cfdc54ff6b53/customconnectoricon.png","dataSources":["cpalsifunctionapp"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","customApiLogicalName":"pag_5Fcpal-20site-20inspection","isCustomApiSolutionAware":true}}</ConnectionReferences>
+  <DatabaseReferences>{"default.cds":{"databaseDetails":{"referenceType":"Environmental","environmentName":"default.cds"},"dataSources":{"Organizations":{"entitySetName":"organizations","logicalName":"organization"}}}}</DatabaseReferences>
+  <CanConsumeAppPass>0</CanConsumeAppPass>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[{"logicalname":"pag_5Fcpal-20site-20inspection","componenttype":372,"componenttypeplatformname":"connector"},{"logicalname":"organization","componenttype":1}]}</CdsDependencies>
+  <BackgroundImageUri>/CanvasApps/pag_cpalsiteinspection_5ab97_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/pag_cpalsiteinspection_5ab97_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
