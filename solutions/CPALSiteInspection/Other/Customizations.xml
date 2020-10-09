@@ -13,6 +13,19 @@
   <EntityDataProviders />
   <CanvasApps />
   <Connectors />
+  <connectionreferences>
+    <connectionreference connectionreferencelogicalname="pag_CPALSiteInspectionConnectionReference">
+      <connectionreferencedisplayname>CPAL Site Inspection Connection Reference</connectionreferencedisplayname>
+      <connectorid>/providers/Microsoft.PowerApps/apis/shared_pag-5fcpal-20site-20inspection-5fe06db0577dadf7e2</connectorid>
+      <customconnectorid>
+        <connectorid>6ddc6a95-604d-44df-823b-d2fa0b89f3bf</connectorid>
+      </customconnectorid>
+      <description>CPAL Site Inspection Connection Reference</description>
+      <iscustomizable>1</iscustomizable>
+      <statecode>0</statecode>
+      <statuscode>1</statuscode>
+    </connectionreference>
+  </connectionreferences>
   <Languages>
     <Language>1033</Language>
   </Languages>
