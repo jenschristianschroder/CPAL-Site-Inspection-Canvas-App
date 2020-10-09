@@ -80,7 +80,6 @@
       </Addresses>
     </Publisher>
     <RootComponents>
-      <RootComponent type="29" id="{4f9e5d9e-1c03-eb11-a813-000d3ab8cd41}" behavior="0" />
       <RootComponent type="29" id="{ae2be2d0-3cff-ea11-a813-000d3ab8cd41}" behavior="0" />
       <RootComponent type="300" schemaName="pag_cpalsiteinspection_5ab97" behavior="0" />
       <RootComponent type="372" id="{6ddc6a95-604d-44df-823b-d2fa0b89f3bf}" schemaName="pag_5Fcpal-20site-20inspection" behavior="0" />
