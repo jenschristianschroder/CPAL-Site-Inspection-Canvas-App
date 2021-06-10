@@ -13,4 +13,4 @@ Collect the following types of documentation:
 
 The app also includes an interactive map that displays the locations of the documentation collected.
 
-![Inspection screen](https://github.com/City-Power-Light/CPAL-Site-Inspection-Canvas-App/blob/master/docs/Inspection%20screen.png)
+![Inspection screen](.attachments/Inspection%20screen.png)
